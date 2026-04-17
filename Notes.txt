@@ -1,0 +1,11 @@
+Project Notes
+
+VS Code Setup and Extensions
+
+- Houston theme
+- Live Server: Launch a development local Server with live reload feature for static & dynamic pages
+- Google Fonts: Allows you to browse and insert Google Fonts <link> or @import !
+	ctrl+shift+p on VS Code html file to open fonts pallet to choose a Google Font
+- Prettier Formatter for Visual Studio Code
+- VSCode Great Icons - A big pack of iconts for your files.
+- Auto Rename Tag: Auto rename paired HTML/XML tag.
